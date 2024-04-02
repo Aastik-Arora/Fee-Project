@@ -1,0 +1,237 @@
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height: 100%;
+
+
+}
+#nav2{
+    border: solid;
+    
+}
+h2{
+    text-shadow: 2px 2px gray;
+}
+
+nav {
+
+    width: 635px;
+    margin-top: 40px;
+    margin-left: 20px;
+    
+   
+
+    
+   
+}
+.textArea{
+    width: 80%;
+    height:100px;
+    background-color:white;   
+    background: linear-gradient(to left top , green,white);
+    height: 100%;
+    font-family: cursive;
+
+}
+
+nav ul{
+
+    background-color: #004d7a;
+    width: 1100px;
+    height: 60px;
+}
+
+ul li{
+    font-size: 1.4rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-right: 75px;
+}
+.logo{
+    background-image: url("logo2.png");
+    background-size: cover;
+    height: 180px;
+    width: 180px;
+    margin-bottom: 15px;
+
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    
+
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 4rem;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 60px;
+    text-shadow: 5px 5px gray;
+
+}
+
+
+textarea,
+
+
+
+button {
+    margin: 10px 0;
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-left: 140px;
+    background-color: rgb(15, 44, 89);
+  
+
+}
+
+h2{
+    font-size: 30px;
+    color:black;
+    font-family:cursive;
+}
+.para{
+    display: flex;
+    justify-content: space-evenly;
+    color: #111;
+
+}
+.para p{
+    font-size: 20px;
+    color:black;
+
+}
+
+#word {
+    padding-bottom: 0;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 30px;
+    height: 50px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#results {
+    text-align: left;
+    color: #000000;
+}
+
+#library {
+    width: 70px;
+
+}
+
+#ig {
+    padding-top: 20px;
+}
+
+
+p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #555;
+}
+
+b {
+    font-weight: bolder;
+    color: #333;
+}
+
+span {
+    color: #ccff00;
+}
+
+
+
+ul {
+
+    border-radius: 6px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2d0868;
+
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #000000;
+}
+
+
+#insta {
+    width: 30px;
+    margin-right: 10px;
+}
+
+#linkedin {
+    width: 30px;
+    margin-right: 10px;
+}
+
+#whats {
+
+    width: 30px;
+    margin-right: 10px;
+}
+
+#fb {
+
+
+    width: 30px;
+    margin-right: 10px;
+}
+#twiter{
+    
+    width: 30px;
+    margin-right: 10px;
+}
+#footer a{
+    align-items: center;
+ 
+    margin: 200px;
+    border: solid black;
+    border-radius: 40%;
+    background-color:white;
+    
+}
+#btn5{
+    width: 81%;
+}
